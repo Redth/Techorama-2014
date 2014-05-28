@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekConfApp", "TekConfApp\TekConfApp.csproj", "{C6CE96AB-EB82-43A9-9624-76B65A206B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Release|iPhone.Build.0 = Release|iPhone
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C6CE96AB-EB82-43A9-9624-76B65A206B7C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TekConfApp\TekConfApp.csproj
+	EndGlobalSection
+EndGlobal

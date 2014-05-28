@@ -1,0 +1,17 @@
+mscorlib.dll
+System.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+System.Xml.dll
+TekConf.PCL.dll
+System.Net.Http.dll
+System.Runtime.dll
+System.ComponentModel.Composition.dll
+System.Collections.dll
+System.Diagnostics.Debug.dll
+System.Threading.Tasks.dll
+Newtonsoft.Json.dll
+System.Runtime.Serialization.dll
+BTProgressHUD.dll
+MonoTouch.Dialog-1.dll
+System.Json.dll
